@@ -1,5 +1,7 @@
 # ✨ NeuraInk - OCR
 
+**by [Aniket Chowdhury](mailto:micro.aniket@gmail.com) (aka `#Hashtag`)**
+
 > A hybrid handwritten character recognition system using a Convolutional Neural Network (CNN) trained on the EMNIST dataset. Supports **Brush Drawing** and **Live Camera Recognition** modes.
 
 ---
@@ -48,3 +50,53 @@ cd NeuraInk-OCR
 
 # Step 2: Install dependencies
 pip install -r requirements.txt
+```
+---
+
+## 🧾 Dataset
+- EMNIST ByClass
+- 814,255 characters, 62 classes (A-Z, a-z, 0-9)
+
+---
+
+## 📚 Files Overview
+
+| File                               | Description               |  
+|------------------------------------|---------------------------|
+| CNN Model EMNIST Model v2.py       | CNN model training script |
+| EMNIST_V2_model.h5                 | Trained CNN model         |
+| EMNIST_V2_history.pkl              | Training history          |
+| GUI_EMNIST_V2[Cam].py              | GUI + Mode Switcher       |
+| requirements.txt                   | Python dependencies       |
+
+---
+
+## 📌 Future Improvements
+
+- 🖍️ Add Eraser tool to brush mode
+- 📷 Integrate region selection for more precise camera predictions
+- 🔤 Allow user to correct mispredictions and retrain model incrementally
+- 🌐 Deploy as a web app using Flask/Streamlit
+- 📱 Build a mobile version using Kivy or Flutter
+- 🔁 Add handwriting stroke animation replay
+- 📦 Add .exe packaging for easy sharing (via PyInstaller)
+- 📊 Visualize CNN layer activations for explainability
+
+---
+
+## 👤 Author & Contact
+
+👨 **Name:** Aniket Chowdhury (aka Hashtag)  
+📧 **Email:** [micro.aniket@gmail.com](mailto:micro.aniket@gmail.com)  
+💼 **LinkedIn:** [itzz-hashtag](https://www.linkedin.com/in/itzz-hashtag/)  
+🐙 **GitHub:** [itzzhashtag](https://github.com/itzzhashtag)  
+📸 **Instagram:** [@itzz_hashtag](https://instagram.com/itzz_hashtag)
+
+---
+
+## 📜 License
+
+This project is released under **MIT License** — free for personal and educational use.
+
+---
+
