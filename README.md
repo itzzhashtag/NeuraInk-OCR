@@ -43,8 +43,8 @@
 
 ```bash
 # Step 1: Clone the repository
-git clone https://github.com/yourusername/DualMode-EMNIST.git
-cd DualMode-EMNIST
+git clone https://github.com/yourusername/NeuraInk-OCR.git
+cd NeuraInk-OCR
 
 # Step 2: Install dependencies
 pip install -r requirements.txt
