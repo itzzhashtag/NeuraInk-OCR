@@ -43,7 +43,7 @@ Supports - Brush Drawing and Live Camera Recognition modes.
 - Final layer: Softmax (62 output classes)
 - Optimizer: Adam with learning rate scheduling
 
-📁 Model File: `emnist_byclass_cnn_model_v2.h5`
+📁 Model File: `EMNIST_V2_model.h5`
 
 ---
 
