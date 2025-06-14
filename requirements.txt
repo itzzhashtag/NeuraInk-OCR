@@ -12,3 +12,18 @@ pip install ml-dtypes==0.2.0
 pip install keras==2.15.0
 pip install tensorboard==2.15.2
 pip install tensorflow==2.15.0
+pip install tensorflow-datasets
+pip install matplotlib
+pip install pillow
+pip install opencv-python
+pip install cv2
+pip install pickle-mixin
+pip install tk
+pip install customtkinter
+
+
+FULL PACKAGE : 
+pip install tensorflow tensorflow-datasets numpy opencv-python matplotlib pillow customtkinter pickle-mixin
+
+
+
