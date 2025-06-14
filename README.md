@@ -1,13 +1,19 @@
+<div align="center">
+  
 # ✨ NeuraInk - OCR
 
 **by [Aniket Chowdhury](mailto:micro.aniket@gmail.com) (aka `#Hashtag`)**
+</div>
 
-> A hybrid handwritten character recognition system using a Convolutional Neural Network (CNN) trained on the EMNIST dataset. Supports **Brush Drawing** and **Live Camera Recognition** modes.
+<div align="center">  
+A hybrid handwritten character recognition system using a Convolutional Neural Network (CNN) trained on the EMNIST dataset.
+Supports - Brush Drawing and Live Camera Recognition modes.
+</div>
 
----
 
 ![demo](https://user-images.githubusercontent.com/yourusername/yourdemoimage.gif) <!-- Replace with actual GIF or screenshot -->
 
+---
 ## 📌 Features
 
 - 🖌️ Draw handwritten characters using a brush canvas
