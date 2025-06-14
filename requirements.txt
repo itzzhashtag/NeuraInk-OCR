@@ -1,0 +1,14 @@
+# requirements.txt
+tensorflow==2.15.0
+keras==2.15.0
+numpy==1.24.3
+ml-dtypes==0.2.0
+tensorboard==2.15.2
+
+
+pip uninstall tensorflow keras ml-dtypes numpy tensorboard -y
+pip install numpy==1.24.3
+pip install ml-dtypes==0.2.0
+pip install keras==2.15.0
+pip install tensorboard==2.15.2
+pip install tensorflow==2.15.0
