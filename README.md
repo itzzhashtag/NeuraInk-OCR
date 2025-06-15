@@ -19,7 +19,7 @@ Supports - Brush Drawing and Live Camera Recognition modes.
 - 🖌️ Draw handwritten characters using a brush canvas
 - 📷 Use your webcam for real-time handwriting recognition
 - 🤖 Trained on **EMNIST ByClass** (62 classes: A-Z, a-z, 0-9)
-- 🌗 Light/Dark mode toggle for GUI
+- 🌗 Brush mode and Cam mode toggle for GUI
 - 💾 Save your drawn image
 - ⏹️ Seamlessly switch between modes using the GUI and keyboard
 
