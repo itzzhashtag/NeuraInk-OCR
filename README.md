@@ -102,7 +102,16 @@ pip install -r requirements.txt
 
 ## 📜 License
 
-This project is released under **MIT License** — free for personal and educational use.
+This project is for **personal/home use only**.  
+For any collaboration, replication, or commercial adaptation, contact the author.
 
 ---
 
+## ❤️ Acknowledgements
+
+This is a passion project, built with countless nights of tinkering, testing, and debugging.  
+If you find it useful or inspiring, feel free to ⭐ the repository or connect with me on social media!
+
+---
+
+> _“If the mind can create, the hands can translate.”_ – Hashtag
